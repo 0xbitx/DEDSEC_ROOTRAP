@@ -1,8 +1,24 @@
+<!--
+<div>
+  <img src="./img/background.png" align="" />
+</div>
+-->
 
-<img src="https://cdn-icons-png.flaticon.com/512/4011/4011063.png" width="200" height="200">
+<p>‎</p>
 
-<h1>DEDSEC ROOTRAP FRAMEWORK </h1>
-<h4>DEDSEC ROOTRAP is a linux based RAT builder tool that can create a fully undetected Linux payload.</h4>
+
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/4011/4011063.png" width="128" height="128" align="left" />
+</div>
+
+
+```diff
+
+DEDSEC ROOTRAP FRAMEWORK
+
+
+DEDSEC ROOTRAP is a linux based RAT builder tool that can create a fully undetected Linux payload.
+```
 
 ### DESCRIPTION
 DedSec Rootrap is a Linux Hacking Framework and Remote Access Trojan builder meticulously crafted for controlling Linux machines. It highlights the advanced DedSec payload, a cutting-edge RAT that empowers users with a suite of advanced functionalities through Meterpreter. This ensures discreet and seamless remote operations on victim systems, employing advanced payload techniques and functionality.
