@@ -21,7 +21,6 @@ DEDSEC ROOTRAP is a linux based RAT builder tool that can create a fully undetec
 ```
 
 
-
 ### DESCRIPTION
 DedSec Rootrap is a Linux Hacking Framework and Remote Access Trojan builder meticulously crafted for controlling Linux machines. It highlights the advanced DedSec payload, a cutting-edge RAT that empowers users with a suite of advanced functionalities through Meterpreter. This ensures discreet and seamless remote operations on victim systems, employing advanced payload techniques and functionality.
 
@@ -106,11 +105,6 @@ $ ./dedsec_rootrap
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
-
-#### VIRUSTOTAL RESULT [ if you are paranoid about running someone else's tool ]
-| tool name | checksum                | Link |
-| :-------- | ------------------------- | --------- |
-| dedsec_rootrap   | 31399d747b7ff1287f2bdbec84488314d1e83c0bfa0e2a5da8c50173d60eec9531 | https://www.virustotal.com/gui/file/  |
 
 ## Support
 
