@@ -83,11 +83,12 @@ The Template feature plays a crucial role by masquerading as an authentic Linux 
 
 ### INSTALLATION 
 ```
-$ git clone https://github.com/0xbitx/DEDSEC_ROOTRAP.git
-$ cd DEDSEC_ROOTRAP
-$ chmod +x dedsec_rootrap setup
-$ ./setup
-$ ./dedsec_rootrap
+ git clone https://github.com/0xbitx/DEDSEC_ROOTRAP.git
+ cd DEDSEC_ROOTRAP
+ pip install requests tabulate pyngrok
+ chmod +x dedsec_rootrap setup
+ ./setup
+ ./dedsec_rootrap
 ```
 ### TOOL MORE OPTION
 
